@@ -1,6 +1,4 @@
 # Police-Killings-Project
-Here is a draft documentation of your data analysis process, assumptions, methodologies, and findings based on the provided code:
-
 **Introduction**
 
 This project involves an analysis of fatal police shootings data in the United States. The dataset contains information about incidents of police shootings, including details about the victims, locations, armed status, and other relevant factors. The primary objective is to gain insights into the patterns and characteristics of these incidents, with a focus on exploring potential disparities and factors that may influence the outcomes.
@@ -48,8 +46,6 @@ Key findings from the analysis include:
 4. Mental illness and fleeing: Victims exhibiting signs of mental illness did not flee at higher rates compared to those without mental illness.
 
 5. Body camera impact: The use of body cameras by police officers was associated with lower rates of police killings overall. However, when body cameras were used, certain racial groups (Asian, Black, and Hispanic) experienced higher rates of police killings compared to White individuals.
-
-Here are some potential conclusions and recommendations based on the analysis:
 
 **Conclusions**:
 
